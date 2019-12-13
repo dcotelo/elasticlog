@@ -1,0 +1,7 @@
+{
+    "name": "dcotelo/elasticlog",
+    "description": "Elastic logging from monolog",
+    "type": "library",
+    "license": "MIT",
+    "require": {}
+}
